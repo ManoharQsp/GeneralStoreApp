@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add item to the cart and verify selected item is present or not in cart.</description>
+   <name>TestCase_Sen1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8071a56-e614-412e-a6b6-c95db08afb3a</testCaseGuid>
+</TestCaseEntity>
